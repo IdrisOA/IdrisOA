@@ -1,7 +1,5 @@
 ### Hi there 👋
-My name is Oladoyin Idris, a full-stack Javascript AND Python developer 
-
-I create scalable and responsive web and mobile app development.
+My name is Oladoyin Idris, I'm a full-stack Javascript Software Engineer and Technical Writer who is passionate about learning, building, and solving problems by creating scalable and responsive web and mobile app development.
 
 
 👯 I’m looking to collaborate on more open-source projects.
@@ -9,13 +7,12 @@ I create scalable and responsive web and mobile app development.
 💬 Ask me about Web Development, Technical Writing, Web3, AI, ML, NodeJs, Serverless Technologies, Open Source etc.
 
 📫 How to reach me:
-
-Social Media
-[Twitter](@_oladoyin_) | [Gmail](idrisatolagbe92@gmail.com)
+Twitter: @_oladoyin_
+[Gmail](idrisatolagbe92@gmail.com)
 
 # TECHNICAL ARTICLES
 
-### Here are some of my articles:
+### Here are some of my technical articles:
 
 * [applying-a-scroll-on-your-web-page-the-beauty-of-javascript](https://oladris.hashnode.dev/applying-a-scroll-on-your-web-page-the-beauty-of-javascript)
 
@@ -26,7 +23,7 @@ Social Media
 * [what-you-need-to-know-about-api](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
 
 
-Tech Stack
+🥂 Cheers!
 
 
  

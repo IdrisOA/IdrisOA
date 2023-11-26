@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Oladoyin Idris, I'm a full-stack Javascript Developer and Technical Writer, passionate about learning, building, and solving problems by creating scalable and responsive web and mobile app development.
+My name is Oladoyin Idris, I'm a full-stack Javascript Developer and Technical Writer, passionate about learning, building, and solving problems, by creating scalable and responsive web and mobile applications.
 
 
 👯 I’m looking to collaborate on more open-source projects.

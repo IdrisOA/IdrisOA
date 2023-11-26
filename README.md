@@ -8,7 +8,8 @@ My name is Oladoyin Idris, I'm a full-stack Javascript Software Engineer and Tec
 
 📫 How to reach me:
 Twitter: @_oladoyin_
-[Gmail](idrisatolagbe92@gmail.com)
+
+[Reach Me on Gmail](idrisatolagbe92@gmail.com)
 
 # TECHNICAL ARTICLES
 

@@ -7,7 +7,7 @@ My name is Oladoyin Idris, I'm a full-stack Javascript Software Engineer and Tec
 💬 Ask me about Web Development, Technical Writing, Web3, AI, ML, NodeJs, Serverless Technologies, Open Source etc.
 
 📫 How to reach me:
-Twitter: @_oladoyin_
+ [Twitter](www.twitter.com/@_oladoyin_)
 
 [Reach Me on Gmail](idrisatolagbe92@gmail.com)
 

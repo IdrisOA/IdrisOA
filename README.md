@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Idris, I'm an Data Scientist and ML Software Engineer. I like Technical Writing and passionate about learning, building, and solving complex problems, by creating scalable and responsive solution.
+My name is Idris, I'm a Data Scientist and ML Software Engineer. I like writing Technical articles. I'm so passionate about solving complex problems.
 
 
 👯 I’m looking to collaborate on more open-source projects.

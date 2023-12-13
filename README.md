@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is Idris, I'm a Machine Learning Enthusiast and Technical Writer, passionate about learning, building, and solving complex problems, by creating scalable and responsive applications.
+My name is Idris, I'm an Data Scientist and ML Software Engineer. I like Technical Writing and passionate about learning, building, and solving complex problems, by creating scalable and responsive solution.
 
 
 👯 I’m looking to collaborate on more open-source projects.
 
-💬 Ask me about Web Development, Technical Writing, Web3, AI, ML, NodeJs, Serverless Technologies, Open Source etc.
+💬 Ask me about Data Science, AI/ML, Web Development, Technical Writing, Web3, NodeJs, Serverless Technologies, Open Source etc.
 
 📫 How to reach me:
  [Twitter](@_oladoyin_)

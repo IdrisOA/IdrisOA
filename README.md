@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is Idris, I'm a Data Scientist. I like writing Technical articles. I'm so passionate about solving complex problems.
+My name is Oladoyin Idris Atolagbe, I'm a Researcher. I'm so passionate about solving complex problems.
 
 
-👯 I’m looking to collaborate on more open-source projects.
+👯 I’m open to collaborate on research projects.
 
-💬 Ask me about Data Science, AI/ML, Web Development, Technical Writing, Web3, NodeJs, Serverless Technologies, Open Source etc.
+💬 Ask me about computational and Bayesian statistics, spatio-temporal modeling, uncertainty quantification and machine learning.
 
 📫 How to reach me:
  [Twitter](@_oladoyin_)

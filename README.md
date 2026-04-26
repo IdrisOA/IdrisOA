@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Oladoyin Idris Atolagbe, I'm a Research statistician with BSc (Hons) Statistics from the University of Ngeria, and Masters degree in Computational Statistics fro University of Ibadan. I'm so passionate about solving complex problems in Energy system, Public Health, Epidemiology and risk management, ecology and climate change, Environmental systems, etc
+My name is Oladoyin Idris Atolagbe, I'm a Research statistician with BSc (Hons) Statistics from the University of Ngeria, and Masters degree in Statistics from University of Ibadan. I'm so passionate about solving complex problems in Energy system, Public Health, Epidemiology and risk management, ecology and climate change, Environmental systems, etc
 
 
 👯 I’m open to collaborate on research projects.

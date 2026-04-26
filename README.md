@@ -1,10 +1,10 @@
 ### Hi there 👋
-My name is Oladoyin Idris Atolagbe, I'm a Researcher. I'm so passionate about solving complex problems.
+My name is Oladoyin Idris Atolagbe, I'm a Research statistician with BSc (Hons) Statistics from the University of Ngeria, snd MSc Compuatational Statistics from Nigerian's premier University (University of Ibadan). I'm so passionate about solving complex problems into a real-world systems Energy system, Public Health, Climate change and Environmental systems, etc
 
 
 👯 I’m open to collaborate on research projects.
 
-💬 Ask me about computational and Bayesian statistics, spatio-temporal modeling, uncertainty quantification and machine learning.
+💬 My research interests are: Bayesian computational statistics, causal inference, spatial statistics, uncertainty quantification and machine learning.
 
 📫 How to reach me:
  [Twitter](@_oladoyin_)

@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the University of Nigeria Nsukka, and a Masters degree in Statistics/Computational Statistics from the University of Ibadan. I'm passionate about solving interdisciplinary problems.
+My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the University of Nigeria Nsukka, and a Masters degree in Statistics/Computational Statistics from the University of Ibadan.
 
-👯 I’m open to collaborate on research projects.
+👯 I’m open to collaborate on interdisciplinary research projects.
 
 📫 How to reach me:
  [Twitter](@_oladoyin_)

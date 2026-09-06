@@ -7,7 +7,7 @@ My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the Univ
  [Twitter](@_oladoyin_)
  [Gmail](idrisatolagbe92@gmail.com)
 
-# TECHNICAL ARTICLES
+### TECHNICAL ARTICLES
 
 ### My computing technical writeup:
 

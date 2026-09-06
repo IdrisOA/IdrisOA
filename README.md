@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the University of Nigeria Nsukka, and a Masters degree in Statistics/Computational Statistics from the University of Ibadan. I'm passionate about solving complex problems.
+My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the University of Nigeria Nsukka, and a Masters degree in Statistics/Computational Statistics from the University of Ibadan. I'm passionate about solving interdisciplinary problems.
 
 👯 I’m open to collaborate on research projects.
 
@@ -7,9 +7,7 @@ My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the Univ
  [Twitter](@_oladoyin_)
  [Gmail](idrisatolagbe92@gmail.com)
 
-### TECHNICAL ARTICLES
-
-### My computing technical writeup:
+### Computing technical Articles:
 
 * [https://oladris.hashnode.dev/what-you-need-to-know-about-api](what-you-need-to-know-about-api)
 

@@ -3,8 +3,6 @@ My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the Univ
 
 👯 I’m open to collaborate on research projects.
 
-💬 My research interests are: Bayesian methods; computational statistics; spatial & spatio-temporal statistics; machine learning.
-
 📫 How to reach me:
  [Twitter](@_oladoyin_)
  [Gmail](idrisatolagbe92@gmail.com)

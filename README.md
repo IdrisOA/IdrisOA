@@ -9,10 +9,9 @@ My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the Univ
 
 ### Computing technical Articles:
 
-* [https://oladris.hashnode.dev/what-you-need-to-know-about-api](what-you-need-to-know-about-api)
+* [https://oladris.hashnode.dev/what-you-need-to-know-about-api]
 
-* [https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh](how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
-
+* [https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh]
 
 
 🥂 Best Regards!

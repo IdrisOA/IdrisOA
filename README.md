@@ -101,12 +101,13 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 ## Contact
 
-Email: idrisatolagbe92[at]gmail[dot]com
-[Google Scholar](https://scholar.google.com/citations?user=y994vkEAAAAJ&hl=en)
+- Email: idrisatolagbe92[at]gmail[dot]com
 
-[ORCID](https://orcid.org/0009-0004-3934-9346)
+- [Google Scholar](https://scholar.google.com/citations?user=y994vkEAAAAJ&hl=en)
 
-[LinkedIn](https://www.linkedin.com/in/oladoyin-atolagbe-4aa832202/)
+- [ORCID](https://orcid.org/0009-0004-3934-9346)
+
+- [LinkedIn](https://www.linkedin.com/in/oladoyin-atolagbe-4aa832202/)
 
 
 

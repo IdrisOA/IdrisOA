@@ -1,11 +1,102 @@
-### Hi there 👋
-My name is Oladoyin Idris Atolagbe, I hold a BSc (Hons) Statistics from the University of Nigeria Nsukka, and a Masters degree in Statistics/Computational Statistics from the University of Ibadan.
+# Research Portfolio
 
-👯 I’m open to collaborate on interdisciplinary research projects.
+## Oladoyin Idris Atolagbe
+M.Sc Statistics/Computational Statistics | Bayesian Statistics | Computational Statistics | Spatial & Spatio-Temporal Statistics 
 
-📫 How to reach me:
- [Twitter](@_oladoyin_)
- [Gmail](idrisatolagbe92@gmail.com)
+Welcome to my research portfolio. This repository contains reproducible
+computational materials associated with my research work in Bayesian computational
+statistics, spatial and spatio-temporal modelling, uncertainty
+quantification, and machine learning.
+
+---
+
+## Research Areas
+
+- Bayesian Statistics
+- Computational Statistics
+- Spatial Statistics
+- Spatio-Temporal Statistics
+- Uncertainty Quantification
+- Extreme event statistics
+- Statistical Machine Learning
+- Environmental and Weather Data Analysis
+
+---
+
+## Research Projects
+
+### 1. Bayesian Spatial Model
+
+Research on Bayesian modelling of spatially structured data in energy
+
+**Methods:** Bayesian inference, hierarchical model, spatial modelling, Bayesian Online Change Point Detection  
+**Programming:** R  
+**Publication:**  [Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States]( 10.51584/IJRIAS.2026.11050181)
+
+---
+### 2. Weather Prediction in Nigeria. 
+
+Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
+
+**Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), predictive modelling  
+**Programming:** Python  
+**Publication:** [Paper title](PUBLICATION-LINK)
+
+---
+### 3. Uncertainty Quantification
+
+Research examining uncertainty estimation and propagation in
+statistical/machine-learning models.
+
+**Methods:** Uncertainty quantification, statistical inference  
+**Programming:** Python
+
+[View project →](./paper-03-uncertainty-quantification/)
+
+---
+### 4. Time Series Analysis 
+
+Research involving Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria.
+**Methods:**  statistical inference  
+**Programming:** R
+**Publication:** [paper title]( link)
+
+---
+
+## Publications
+
+1. **Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States** — International Journal of Research and Innovation in Applied Science, 2026  
+   First Author 
+   [Publication] | [Code]
+
+2. **Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria Using Spatial Analysis** — International Journal of Modeling and Applied Science Research, 2026  
+   First Author/ Co-author
+   [Publication] | [Code]
+
+...
+
+## Software
+
+- R
+- Python
+- Bayesian modelling
+- Statistical simulation
+- Machine learning
+- Data visualization
+- Reproducible computational workflows
+
+---
+
+## Contact
+
+Email: idrisatolagbe92@gmail.com
+
+Google Scholar: [https://scholar.google.com/citations?user=y994vkEAAAAJ&hl=en]
+
+ORCID: [https://orcid.org/0009-0004-3934-9346]
+
+LinkedIn: [https://www.linkedin.com/in/oladoyin-atolagbe-4aa832202/]
+
 
 ### Computing technical Articles:
 

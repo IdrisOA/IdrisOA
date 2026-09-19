@@ -1,6 +1,6 @@
 # Research Portfolio
 
-Welcome to my research portfolio. This repository contains reproducible
+Welcome to my research profile. This repository contains reproducible
 computational materials associated with my research work in Bayesian inference, computational
 statistics, spatial and spatio-temporal modelling, uncertainty
 quantification, and machine learning.

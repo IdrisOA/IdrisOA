@@ -31,7 +31,7 @@ BSc(Hons) Statistics, University of Nigeria Nsukka.
 
 ### 1. Bayesian Spatial Model
 
-Research on Bayesian modelling of spatially structured data in energy
+Research on Bayesian modelling of spatially structured data in energy system
 
 **Methods:** Bayesian inference, hierarchical model, spatial modelling, Bayesian Online Change Point Detection  
 **Programming:** R  
@@ -53,7 +53,9 @@ Research examining uncertainty estimation and propagation in
 statistical/machine-learning models.
 
 **Methods:** Uncertainty quantification, Bayesian statistical inference  
+
 **Programming:** Python
+
 **Publication:** [Paper title](PUBLICATION-LINK)
 
 ---
@@ -62,7 +64,9 @@ statistical/machine-learning models.
 Research involving Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria.
 
 **Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC
+
 **Programming:** R
+
 **Publication:** [Paper title](PUBLICATION-LINK)
 
 ...

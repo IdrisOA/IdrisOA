@@ -1,7 +1,5 @@
 # Research Portfolio
 
-## Oladoyin Idris Atolagbe
-
 Welcome to my research portfolio. This repository contains reproducible
 computational materials associated with my research work in Bayesian inference, computational
 statistics, spatial and spatio-temporal modelling, uncertainty

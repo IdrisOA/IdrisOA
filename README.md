@@ -48,9 +48,11 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 
 **Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), spatial autocorrelation, Moran I, predictive modelling
 
+**Publication:** [Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria Using Spatial Analysis](Coming-soon)
+
 **Programming:** Python
 
-**Publication:** [Paper title](PUBLICATION-LINK)
+**Repository:** [Python Code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
 ### 3. Uncertainty Quantification
@@ -58,11 +60,13 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 Research examining uncertainty estimation and propagation in
 statistical/machine-learning models.
 
-**Methods:** Uncertainty quantification, Bayesian statistical inference  
+**Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
+
+**Publication:** [Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks](Coming-soon)
 
 **Programming:** Python
 
-**Publication:** [Paper title](PUBLICATION-LINK)
+**Repository:** [Python Code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
 
 ---
 ### 4. Time Series Analysis 
@@ -73,7 +77,9 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Programming:** R
 
-**Publication:** [Paper title](PUBLICATION-LINK)
+**Publication:** [Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria](Coming-soon)
+
+**Repository:** [R Code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code)
 
 ...
 

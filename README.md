@@ -29,7 +29,7 @@ quantification, and machine learning.
 
 ## Research Projects
 
-### 1. Bayesian Spatial Model
+### 1. Bayesian Spatio-Temporal Modeling
 
 Research on Bayesian modelling of spatially structured data in energy system
 
@@ -75,9 +75,9 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC
 
-**Programming:** R
-
 **Publication:** [Coming soon](Coming-soon)
+
+**Programming:** R
 
 **Repository:** [R Code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 

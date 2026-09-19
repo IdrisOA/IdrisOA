@@ -32,11 +32,9 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Methods:** Bayesian Hierarchical Model, Bayesian Online Change Point Detection, Spatial Modeling, Posterior Predictive Checks, CAR, WAIC, LOO-CV.
 
-**Publication:**  [View](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
+**Paper:**  [View](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
 
-**Programming:** R
-
-**Repository:** [View R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
+**Repository:** [R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
 ### 2. Weather Prediction in Nigeria using Machine Learning and Deep Learning Models with Spatial Analysis. 
@@ -45,11 +43,9 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 
 **Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
 
-**Publication:** [Coming soon](Coming-soon)
+**Paper:** [Coming soon](Coming-soon)
 
-**Programming:** Python
-
-**Repository:** [View Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
+**Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
 ### 3. Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks
@@ -59,11 +55,9 @@ statistical/machine-learning models.
 
 **Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
 
-**Publication:** [Coming soon](Coming-soon)
+**Paper:** [Coming soon](Coming-soon)
 
-**Programming:** Python
-
-**Repository:** [View Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
+**Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
 
 ---
 ### 4. Time Series Analysis of Inmate Population in Lagos Nigeria
@@ -74,9 +68,7 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Paper:** [Coming soon](Coming-soon)
 
-**Programming:** R
-
-**Repository:** [View R code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
+**Repository:** [R code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 
 ...
 

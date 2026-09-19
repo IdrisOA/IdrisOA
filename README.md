@@ -8,7 +8,7 @@ quantification, and machine learning.
 ---
 ## Education 
 
-- MSc Statistics/Computational Statistics, University of Ibadan.
+- MSc Statistics(Computational Statistics), University of Ibadan.
 
 - BSc(Hons) Statistics, University of Nigeria Nsukka. 
 
@@ -36,7 +36,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Programming:** R
 
-**Repository:** [R Code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
+**Repository:** [View R Code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
 ### 2. Weather Prediction in Nigeria using Machine Learning and Deep Learning Models with Spatial Analysis. 
@@ -49,7 +49,7 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 
 **Programming:** Python
 
-**Repository:** [Python Code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
+**Repository:** [View Python Code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
 ### 3. Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks
@@ -63,7 +63,7 @@ statistical/machine-learning models.
 
 **Programming:** Python
 
-**Repository:** [Python Code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
+**Repository:** [View Python Code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
 
 ---
 ### 4. Time Series Analysis of Inmate Population in Lagos Nigeria
@@ -76,7 +76,7 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Programming:** R
 
-**Repository:** [R Code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
+**Repository:** [View R Code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 
 ...
 
@@ -91,6 +91,13 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 - Reproducible computational workflows
 
 ---
+### Compute Technical Articles:
+
+* [https://oladris.hashnode.dev/what-you-need-to-know-about-api]
+
+* [https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh]
+
+---
 
 ## Contact
 
@@ -102,12 +109,6 @@ ORCID: [https://orcid.org/0009-0004-3934-9346]
 
 LinkedIn: [https://www.linkedin.com/in/oladoyin-atolagbe-4aa832202/]
 
-
-### Compute Technical Articles:
-
-* [https://oladris.hashnode.dev/what-you-need-to-know-about-api]
-
-* [https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh]
 
 
 🥂 Best Regards!

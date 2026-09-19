@@ -2,7 +2,9 @@
 
 ## Oladoyin Idris Atolagbe
 Education: 
+
 MSc Statistics/Computational Statistics, University of Ibadan.
+
 BSc(Hons) Statistics, University of Nigeria Nsukka. 
 
 Welcome to my research portfolio. This repository contains reproducible

@@ -93,16 +93,15 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 ---
 ### Compute Technical Articles:
 
-* [what-you-need-to-know-about-api](https://oladris.hashnode.dev/what-you-need-to-know-about-api)
+- [what-you-need-to-know-about-api](https://oladris.hashnode.dev/what-you-need-to-know-about-api)
 
-* [how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
+- [how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
 
 ---
 
 ## Contact
 
-[Email](idrisatolagbe92@gmail.com)
-
+Email: idrisatolagbe92[at]gmail[dot]com
 [Google Scholar](https://scholar.google.com/citations?user=y994vkEAAAAJ&hl=en)
 
 [ORCID](https://orcid.org/0009-0004-3934-9346)

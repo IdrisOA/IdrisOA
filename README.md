@@ -41,7 +41,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 **Repository:** [R Code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
-### 2. Weather Prediction in Nigeria. 
+### 2. Weather Prediction in Nigeria using Machine Learning and Deep Learning Models with Spatial Analysis. 
 
 Research on Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
 

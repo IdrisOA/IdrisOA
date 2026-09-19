@@ -34,16 +34,21 @@ BSc(Hons) Statistics, University of Nigeria Nsukka.
 Research on Bayesian modelling of spatially structured data in energy system
 
 **Methods:** Bayesian inference, hierarchical model, spatial modelling, Bayesian Online Change Point Detection  
+
 **Programming:** R  
+
 **Publication:**  [Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States]( 10.51584/IJRIAS.2026.11050181)
 
+**Code:** [https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R]
 ---
 ### 2. Weather Prediction in Nigeria. 
 
 Research on Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
 
-**Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), predictive modelling  
-**Programming:** Python  
+**Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), spatial autocorrelation, Moran I, predictive modelling
+
+**Programming:** Python
+
 **Publication:** [Paper title](PUBLICATION-LINK)
 
 ---

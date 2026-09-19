@@ -1,7 +1,7 @@
 # Research Portfolio
 
 ## Oladoyin Idris Atolagbe
-MSc Statistics/Computational Statistics
+BSc(Hons) Statistics, MSc Statistics/Computational Statistics
 
 Welcome to my research portfolio. This repository contains reproducible
 computational materials associated with my research work in Bayesian computational
@@ -48,7 +48,7 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 Research examining uncertainty estimation and propagation in
 statistical/machine-learning models.
 
-**Methods:** Uncertainty quantification, statistical inference  
+**Methods:** Uncertainty quantification, Bayesian statistical inference  
 **Programming:** Python
 **Publication:** [Paper title](PUBLICATION-LINK)
 
@@ -56,7 +56,8 @@ statistical/machine-learning models.
 ### 4. Time Series Analysis 
 
 Research involving Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria.
-**Methods:**  statistical inference  
+
+**Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC
 **Programming:** R
 **Publication:** [Paper title](PUBLICATION-LINK)
 

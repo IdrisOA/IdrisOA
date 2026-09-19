@@ -31,11 +31,11 @@ quantification, and machine learning.
 
 ### 1. Bayesian Spatio-Temporal Modeling
 
-Research on Bayesian modeling and change points detection of spatially structured data in energy system
+Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States.
 
-**Methods:** Bayesian inference, Hierarchical model, Spatial modelling, Bayesian Online Change Point Detection  
+**Methods:** Bayesian Hierarchical Model, Bayesian Online Change Point Detection, Spatial Modeling, Posterior Predictive Checks, CAR, WAIC, LOO-CV.
 
-**Publication:**  [DOWNLOAD PDF](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
+**Publication:**  [VIEW PDF HERE](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
 
 **Programming:** R
 

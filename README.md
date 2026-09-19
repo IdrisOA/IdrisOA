@@ -31,7 +31,7 @@ quantification, and machine learning.
 
 ### 1. Bayesian Spatio-Temporal Modeling
 
-Research on Bayesian modelling of spatially structured data in energy system
+Research on Bayesian modeling and change points detection of spatially structured data in energy system
 
 **Methods:** Bayesian inference, Hierarchical model, Spatial modelling, Bayesian Online Change Point Detection  
 

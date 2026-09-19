@@ -18,12 +18,11 @@ quantification, and machine learning.
 
 - Bayesian Statistics
 - Computational Statistics
-- Spatial Statistics
-- Spatio-Temporal Statistics
+- Spatial & Spatio-Temporal Modeling
 - Uncertainty Quantification
-- Extreme event statistics
+- Extreme Event statistics
 - Statistical Machine Learning
-- Environmental and Weather Data Analysis
+- Environmental Statistics
 
 ---
 

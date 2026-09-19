@@ -35,7 +35,7 @@ Research on Bayesian modeling and change points detection of spatially structure
 
 **Methods:** Bayesian inference, Hierarchical model, Spatial modelling, Bayesian Online Change Point Detection  
 
-**Publication:**  [Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States]( https://10.51584/IJRIAS.2026.11050181)
+**Publication:**  [VIEW](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
 
 **Programming:** R
 

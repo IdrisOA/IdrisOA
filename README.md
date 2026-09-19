@@ -32,7 +32,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Methods:** Bayesian Hierarchical Model, Bayesian Online Change Point Detection, Spatial Modeling, Posterior Predictive Checks, CAR, WAIC, LOO-CV.
 
-**Publication:**  [VIEW](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
+**Publication:**  [View](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
 
 **Programming:** R
 

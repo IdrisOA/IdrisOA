@@ -39,7 +39,7 @@ Research on Bayesian modelling of spatially structured data in energy system
 
 **Publication:**  [Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States]( 10.51584/IJRIAS.2026.11050181)
 
-**Code:** [https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R]
+*Code:* [https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R]
 ---
 ### 2. Weather Prediction in Nigeria. 
 

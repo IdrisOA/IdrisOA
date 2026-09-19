@@ -36,7 +36,7 @@ Research on Bayesian modelling of spatially structured data in energy
 ---
 ### 2. Weather Prediction in Nigeria. 
 
-Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
+Research on Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
 
 **Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), predictive modelling  
 **Programming:** Python  
@@ -50,8 +50,7 @@ statistical/machine-learning models.
 
 **Methods:** Uncertainty quantification, statistical inference  
 **Programming:** Python
-
-[View project →](./paper-03-uncertainty-quantification/)
+**Publication:** [Paper title](PUBLICATION-LINK)
 
 ---
 ### 4. Time Series Analysis 
@@ -59,19 +58,7 @@ statistical/machine-learning models.
 Research involving Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria.
 **Methods:**  statistical inference  
 **Programming:** R
-**Publication:** [paper title]( link)
-
----
-
-## Publications
-
-1. **Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States** — International Journal of Research and Innovation in Applied Science, 2026  
-   First Author 
-   [Publication] | [Code]
-
-2. **Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria Using Spatial Analysis** — International Journal of Modeling and Applied Science Research, 2026  
-   First Author/ Co-author
-   [Publication] | [Code]
+**Publication:** [Paper title](PUBLICATION-LINK)
 
 ...
 
@@ -98,7 +85,7 @@ ORCID: [https://orcid.org/0009-0004-3934-9346]
 LinkedIn: [https://www.linkedin.com/in/oladoyin-atolagbe-4aa832202/]
 
 
-### Computing technical Articles:
+### Compute Technical Articles:
 
 * [https://oladris.hashnode.dev/what-you-need-to-know-about-api]
 

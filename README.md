@@ -46,9 +46,9 @@ Research on Bayesian modelling of spatially structured data in energy system
 
 Research on Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
 
-**Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, Predictive Modelling
+**Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
 
-**Publication:** [Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria Using Spatial Analysis](Coming-soon)
+**Publication:** [Coming soon](Coming-soon)
 
 **Programming:** Python
 
@@ -77,9 +77,9 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Programming:** R
 
-**Publication:** [Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria](Coming-soon)
+**Publication:** [Coming soon](Coming-soon)
 
-**Repository:** [R Code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code)
+**Repository:** [R Code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 
 ...
 

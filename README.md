@@ -43,7 +43,7 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 
 **Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
 
-**Paper:** [Coming soon](Coming-soon)
+**Paper:** [Accepted](Coming-soon)
 
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
@@ -55,7 +55,7 @@ statistical/machine-learning models.
 
 **Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
 
-**Paper:** [Coming soon](Coming-soon)
+**Paper:** [Accepted](Coming-soon)
 
 **Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
 
@@ -66,7 +66,7 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC
 
-**Paper:** [Coming soon](Coming-soon)
+**Paper:** [Manuscript Under Review](Coming-soon)
 
 **Repository:** [R code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 

@@ -39,7 +39,7 @@ Research on Bayesian modelling of spatially structured data in energy system
 
 **Programming:** R
 
-**R:** [Code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
+**Repository:** [R Code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
 ### 2. Weather Prediction in Nigeria. 

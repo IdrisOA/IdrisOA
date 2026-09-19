@@ -72,7 +72,7 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC
 
-**Publication:** [Coming soon](Coming-soon)
+**Paper:** [Coming soon](Coming-soon)
 
 **Programming:** R
 

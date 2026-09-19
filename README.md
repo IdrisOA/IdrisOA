@@ -1,7 +1,7 @@
 # Research Portfolio
 
 ## Oladoyin Idris Atolagbe
-M.Sc Statistics/Computational Statistics | Bayesian Statistics | Computational Statistics | Spatial & Spatio-Temporal Statistics 
+MSc Statistics/Computational Statistics
 
 Welcome to my research portfolio. This repository contains reproducible
 computational materials associated with my research work in Bayesian computational

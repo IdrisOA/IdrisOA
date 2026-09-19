@@ -8,9 +8,9 @@ quantification, and machine learning.
 ---
 ## Education 
 
-- MSc Statistics (Computational Statistics), [University of Ibadan](https://pgcollege.ui.edu.ng/).
+- MSc Statistics (Computational Statistics), [University of Ibadan](https://pgcollege.ui.edu.ng/)
 
-- BSc(Hons) Statistics, [University of Nigeria Nsukka](https://www.unn.edu.ng/). 
+- BSc(Hons) Statistics, [University of Nigeria Nsukka](https://www.unn.edu.ng/) 
 
 ## Research Areas
 
@@ -93,9 +93,9 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 ---
 ### Compute Technical Articles:
 
-* [https://oladris.hashnode.dev/what-you-need-to-know-about-api]
+* [what-you-need-to-know-about-api](https://oladris.hashnode.dev/what-you-need-to-know-about-api)
 
-* [https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh]
+* [how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh](https://dev.to/oladris/how-to-deploy-your-code-with-aws-s3-devops-basics-3pkh)
 
 ---
 

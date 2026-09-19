@@ -10,9 +10,9 @@ quantification, and machine learning.
 ---
 ## Education 
 
-MSc Statistics/Computational Statistics, University of Ibadan.
+- MSc Statistics/Computational Statistics, University of Ibadan.
 
-BSc(Hons) Statistics, University of Nigeria Nsukka. 
+- BSc(Hons) Statistics, University of Nigeria Nsukka. 
 
 ## Research Areas
 
@@ -33,9 +33,9 @@ BSc(Hons) Statistics, University of Nigeria Nsukka.
 
 Research on Bayesian modelling of spatially structured data in energy system
 
-**Methods:** Bayesian inference, hierarchical model, spatial modelling, Bayesian Online Change Point Detection  
+**Methods:** Bayesian inference, Hierarchical model, Spatial modelling, Bayesian Online Change Point Detection  
 
-**Publication:**  [Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States]( 10.51584/IJRIAS.2026.11050181)
+**Publication:**  [Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States]( https://10.51584/IJRIAS.2026.11050181)
 
 **Programming:** R
 
@@ -46,7 +46,7 @@ Research on Bayesian modelling of spatially structured data in energy system
 
 Research on Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
 
-**Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), spatial autocorrelation, Moran I, predictive modelling
+**Methods:** Machine learning (Random Forest, XGBoost), deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, Predictive Modelling
 
 **Publication:** [Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria Using Spatial Analysis](Coming-soon)
 
@@ -55,21 +55,21 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 **Repository:** [Python Code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
-### 3. Uncertainty Quantification
+### 3. Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks
 
-Research examining uncertainty estimation and propagation in
+Research examining uncertainty estimation and calibration in
 statistical/machine-learning models.
 
 **Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
 
-**Publication:** [Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks](Coming-soon)
+**Publication:** [Coming soon](Coming-soon)
 
 **Programming:** Python
 
 **Repository:** [Python Code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
 
 ---
-### 4. Time Series Analysis 
+### 4. Time Series Analysis of Inmate Population in Lagos Nigeria
 
 Research involving Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria.
 

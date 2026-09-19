@@ -1,7 +1,9 @@
 # Research Portfolio
 
 ## Oladoyin Idris Atolagbe
-BSc(Hons) Statistics, MSc Statistics/Computational Statistics
+Education: 
+MSc Statistics/Computational Statistics, University of Ibadan.
+BSc(Hons) Statistics, University of Nigeria Nsukka. 
 
 Welcome to my research portfolio. This repository contains reproducible
 computational materials associated with my research work in Bayesian computational

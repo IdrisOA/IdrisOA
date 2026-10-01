@@ -37,9 +37,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 **Repository:** [R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
-### 2. Weather Prediction in Nigeria using Machine Learning and Deep Learning Models with Spatial Analysis. 
-
-Research on Comparative Evaluation of Machine Learning and Deep Learning Models for Weather Prediction in Nigeria using Spatial Analysis. 
+### 2. Comparative Evaluation of Machine Learning and Deep Learning Models for  Weather Prediction in Nigeria using Spatial Analysis. 
 
 **Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
 
@@ -48,7 +46,7 @@ Research on Comparative Evaluation of Machine Learning and Deep Learning Models 
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
-### 3. Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks
+### 3. Uncertainty Quantification and Calibration of Machine Learning Models using Bayesian Frameworks
 
 Research examining uncertainty estimation and calibration in
 statistical/machine-learning models.

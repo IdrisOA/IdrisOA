@@ -55,7 +55,7 @@ statistical/machine-learning models.
 
 **Paper:** [Accepted](Coming-soon)
 
-**Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/Uncertainty_Quantification_Project.ipynb)
+**Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/UQ.ipynb)
 
 ---
 ### 4. Time Series Analysis of Inmate Population in Lagos Nigeria

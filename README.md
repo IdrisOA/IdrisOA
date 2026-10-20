@@ -1,9 +1,5 @@
 # Research Portfolio
-
-This repository contains reproducible
-computational materials associated with my research work in Bayesian inference, computational
-statistics, spatial and spatio-temporal modelling, uncertainty
-quantification, and machine learning.
+Welcome to my Github! In this repository, you will find my research outputs and reproducibility materials.
 
 ---
 ## Education 

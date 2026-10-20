@@ -1,5 +1,5 @@
 # Research Portfolio
-Welcome to my Github! In this repository, you will find my research work and reproducibility materials.
+Welcome to my GitHub! You will find my code, reproducible analyses, and research projects.
 
 ---
 ## Education 

@@ -41,7 +41,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
 
-**Paper:** [View Paper](Coming-soon)
+**Paper:** [View Paper](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/CJMASR-OLADOYIN%20IDRIS%20ATOLAGBE.pdf)
 
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 

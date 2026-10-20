@@ -1,6 +1,6 @@
 # Research Portfolio
 
-Welcome to my research profile. This repository contains reproducible
+This repository contains reproducible
 computational materials associated with my research work in Bayesian inference, computational
 statistics, spatial and spatio-temporal modelling, uncertainty
 quantification, and machine learning.
@@ -41,7 +41,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
 
-**Paper:** [Accepted](Coming-soon)
+**Paper:** [View Paper](Coming-soon)
 
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 

@@ -19,10 +19,18 @@ Welcome to my GitHub! You will find my research projects, reproducible analyses 
 - Environmental Statistics
 
 ---
-
 ## Research Projects
 
-### 1. Bayesian Spatio-Temporal Modeling
+### 1. Comparative Evaluation of Machine Learning and Deep Learning Models for  Weather Prediction in Nigeria using Spatial Analysis. 
+
+**Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
+
+**Paper:** [View Paper](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/CJMASR-OLADOYIN%20IDRIS%20ATOLAGBE.pdf)
+
+**Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
+
+---
+### 2. Bayesian Spatio-Temporal Modeling and Change-Points Detection of Energy Consumption in the Midwestern United States.
 
 Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States.
 
@@ -33,16 +41,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 **Repository:** [R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
-### 2. Comparative Evaluation of Machine Learning and Deep Learning Models for  Weather Prediction in Nigeria using Spatial Analysis. 
-
-**Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
-
-**Paper:** [View Paper](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/CJMASR-OLADOYIN%20IDRIS%20ATOLAGBE.pdf)
-
-**Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
-
----
-### 3. Uncertainty Quantification and Calibration of Machine Learning Models using Bayesian Frameworks
+### 3. Uncertainty Quantification and Calibration of Machine Learning Models using Bayesian Frameworks.
 
 Research examining uncertainty estimation and calibration in
 statistical/machine-learning models.

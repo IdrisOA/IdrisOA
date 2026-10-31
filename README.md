@@ -49,7 +49,7 @@ statistical/machine-learning models.
 
 **Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
 
-**Paper:** [Accepted](Coming-soon)
+**Paper:** [View Paper](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/JAMS%2BUncertainty%2B1144-1161.pdf)
 
 **Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/UQ.ipynb)
 

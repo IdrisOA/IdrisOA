@@ -4,9 +4,9 @@ Welcome to my GitHub! You will find my research projects, reproducible analyses 
 ---
 ## Education 
 
-- MSc Statistics (Computational Statistics), [University of Ibadan](https://pgcollege.ui.edu.ng/)
+- MSc Statistics (Computational Statistics), [University of Ibadan, Nigeria](https://pgcollege.ui.edu.ng/)
 
-- BSc(Hons) Statistics, [University of Nigeria Nsukka](https://www.unn.edu.ng/) 
+- BSc(Hons) Statistics, [University of Nigeria, Nsukka](https://www.unn.edu.ng/) 
 
 ## Research Areas
 

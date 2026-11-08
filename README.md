@@ -11,7 +11,7 @@
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
-### 2. Uncertainty Quantification and Calibration of Machine Learning Models using Bayesian Frameworks.
+### 2. Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks.
 
 Research examining uncertainty estimation and calibration in statistical/machine-learning models.
 

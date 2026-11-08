@@ -55,17 +55,18 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 ...
 
 ## Software
-
-- R
+- R & RStudio
 - Python
-- Bayesian modelling
-- Statistical simulation
+- Bayesian modeling
+- Artificial Intelligence
 - Machine learning
+- Deep Learning
+- Neural Networks
+- Spatio-temporal modeling
 - Data visualization
-- Reproducible computational workflows
 
 ---
-### Compute Technical Articles:
+### Blog Posts:
 
 - [what-you-need-to-know-about-api](https://oladris.hashnode.dev/what-you-need-to-know-about-api)
 

@@ -5,16 +5,20 @@
 ### 1. Comparative Evaluation of Machine Learning and Deep Learning Models for  Weather Prediction in Nigeria using Spatial Analysis. 
 
 **Methods:** Machine learning (Random Forest, XGBoost), Deep learning(LSTM, Bi-LSTM, Transformer), Spatial Autocorrelation, Moran's I, High-Dimensional Data, Predictive Modelling.
+
 **Paper:** [View Paper](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/CJMASR-OLADOYIN%20IDRIS%20ATOLAGBE.pdf)
+
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
 ---
 ### 2. Uncertainty Quantification and Calibration of Machine Learning Models using Bayesian Frameworks.
 
-Research examining uncertainty estimation and calibration in
-statistical/machine-learning models.
+Research examining uncertainty estimation and calibration in statistical/machine-learning models.
+
 **Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
+
 **Paper:** [View Paper](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/JAMS%2BUncertainty%2B1144-1161.pdf)
+
 **Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/UQ.ipynb)
 
 ---
@@ -23,20 +27,29 @@ statistical/machine-learning models.
 Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Energy Consumption in the Midwestern United States.
 
 **Methods:** Bayesian Hierarchical Model, Bayesian Online Change Point Detection, Spatial Modeling, Posterior Predictive Checks, CAR, WAIC, LOO-CV.
+
 **Publication:**  [View Paper](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
+
 **Repository:** [R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
 ---
 ### 4. Cancer Patients and Cancer Related Death Cases in Nigeria: A Case Study of Abuja and Ibadan Cancer Registries
+
 **Methods:** Descriptive statistics, Frequency and percentage analysis, Population pyramid analysis, Age-specific incidence rates, Age-standardized incidence rates (ASR), Comparative analysis, Statistical significance testing.
+
 **Paper:** [View Paper]( https://github.com/IdrisOA/-Abuja-and-Ibadan-Cancer-Registries/blob/main/IJSRET_V10_issue2_224.pdf)
+
 **Repository:** [Python code](https://github.com/IdrisOA/-Abuja-and-Ibadan-Cancer-Registries/blob/main/cancerpaper_lagos_abuja.ipynb)
 
 ---
 ### 5. Time Series Analysis of Inmate Population in Lagos Nigeria
+
 Research involving Time Series Analysis of Inmate population at the Lagos Correctional Center, Kirikiri, Nigeria.
-**Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC
+
+**Methods:**  Stationarity test, Box-Jenkins, MAE, RMSE, MAPE, ACF, PACF, ARIMA, AIC, BIC.
+
 **Paper:** [Under Review](Coming-soon)
+
 **Repository:** [R code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 
 ...

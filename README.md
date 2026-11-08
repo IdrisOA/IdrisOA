@@ -1,6 +1,6 @@
 
 ---
-## Research Projects
+## Research, Publications & Code
 
 ### 1. Comparative Evaluation of Machine Learning and Deep Learning Models for  Weather Prediction in Nigeria using Spatial Analysis. 
 

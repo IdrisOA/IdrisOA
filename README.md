@@ -1,22 +1,3 @@
-# Research Portfolio
-Welcome to my GitHub! You will find my research projects, reproducible analyses and codes. 
-
----
-## Education 
-
-- MSc Statistics (Computational Statistics), [University of Ibadan, Nigeria](https://pgcollege.ui.edu.ng/)
-
-- BSc(Hons) Statistics, [University of Nigeria, Nsukka](https://www.unn.edu.ng/) 
-
-## Research Areas
-
-- Bayesian Statistics
-- Computational Statistics
-- Spatial & Spatio-Temporal Modeling
-- Uncertainty Quantification
-- Extreme Event statistics
-- Statistical Machine Learning
-- Environmental Statistics
 
 ---
 ## Research Projects

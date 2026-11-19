@@ -10,6 +10,8 @@
 
 **Repository:** [Python code](https://github.com/IdrisOA/Weather-Prediction-in-Nigeria-Project-Code/blob/main/Weather_Prediction_Paper.ipynb)
 
+**Contibution:** First Author
+
 ---
 ### 2. Uncertainty Quantification and Calibration in Machine Learning Models using Bayesian Frameworks.
 
@@ -21,6 +23,7 @@ Research examining uncertainty estimation and calibration in statistical/machine
 
 **Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/UQ.ipynb)
 
+**Contribution:** First Author
 ---
 ### 3. Bayesian Spatio-Temporal Modeling and Change-Points Detection of Energy Consumption in the Midwestern United States.
 
@@ -32,6 +35,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Repository:** [R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
+**Contribution:** Main Author
 ---
 ### 4. Cancer Patients and Cancer Related Death Cases in Nigeria: A Case Study of Abuja and Ibadan Cancer Registries
 
@@ -41,6 +45,7 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Repository:** [Python code](https://github.com/IdrisOA/-Abuja-and-Ibadan-Cancer-Registries/blob/main/cancerpaper_lagos_abuja.ipynb)
 
+**Contribution:** Lead Author
 ---
 ### 5. Time Series Analysis of Inmate Population in Lagos Nigeria
 
@@ -52,6 +57,7 @@ Research involving Time Series Analysis of Inmate population at the Lagos Correc
 
 **Repository:** [R code](https://github.com/IdrisOA/Time-Series-Analysis-Project-Code/blob/main/Time%20Series%20Analysis%20Project.R)
 
+**Contribution:** Co-author
 ...
 
 ## Software

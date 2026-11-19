@@ -19,11 +19,13 @@ Research examining uncertainty estimation and calibration in statistical/machine
 
 **Methods:** Uncertainty Quantification, Bayesian Neural Networks, Deterministic Neural Network, Monte Carlo Dropout, Gaussian Processes.
 
+**Contibution:** First Author
+
 **Paper:** [View Paper](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/JAMS%2BUncertainty%2B1144-1161.pdf)
 
 **Repository:** [Python code](https://github.com/IdrisOA/Uncertainty-Quantification-in-Bayesian-Machine-Learning-Paper/blob/main/UQ.ipynb)
 
-**Contribution:** First Author
+
 ---
 ### 3. Bayesian Spatio-Temporal Modeling and Change-Points Detection of Energy Consumption in the Midwestern United States.
 
@@ -31,21 +33,22 @@ Research on Bayesian Spatio-Temporal Modeling and Change-Point Detection of Ener
 
 **Methods:** Bayesian Hierarchical Model, Bayesian Online Change Point Detection, Spatial Modeling, Posterior Predictive Checks, CAR, WAIC, LOO-CV.
 
+**Contibution:** Main Author
 **Publication:**  [View Paper](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/vol11-iss5-pg2216-2234-202606_pdf.pdf)
 
 **Repository:** [R code](https://github.com/IdrisOA/Bayesian-spatiotemporal-modeling-project/blob/main/Bayesian%20spatiotemporal%20energy%20%20project.R)
 
-**Contribution:** Main Author
 ---
 ### 4. Cancer Patients and Cancer Related Death Cases in Nigeria: A Case Study of Abuja and Ibadan Cancer Registries
 
 **Methods:** Descriptive statistics, Frequency and percentage analysis, Population pyramid analysis, Age-specific incidence rates, Age-standardized incidence rates (ASR), Comparative analysis, Statistical significance testing.
 
+**Contribution:** Lead Author
+
 **Paper:** [View Paper]( https://github.com/IdrisOA/-Abuja-and-Ibadan-Cancer-Registries/blob/main/IJSRET_V10_issue2_224.pdf)
 
 **Repository:** [Python code](https://github.com/IdrisOA/-Abuja-and-Ibadan-Cancer-Registries/blob/main/cancerpaper_lagos_abuja.ipynb)
 
-**Contribution:** Lead Author
 ---
 ### 5. Time Series Analysis of Inmate Population in Lagos Nigeria
 
